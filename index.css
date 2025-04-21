@@ -1,0 +1,59 @@
+body {
+padding: 10px;
+}
+
+* {border-radius: 5px;
+color: white;
+text-align: center;}
+
+.cabeçalho {background-color: #19E535;
+padding: 5px;
+}
+
+.pai {display: flex;
+flex-direction: row ;
+gap: 10px;
+justify-content: center;
+margin-top: 10px;}
+
+.menu {background-color: #E64D0A;
+width: 800px;
+height: 200px;
+}
+
+.menu2 {background-color: #2548E6;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+gap: 10px;
+width: 85%;
+}
+     
+.resumo {display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+gap: 10px;
+margin-top: 10px;
+}
+
+.filha1 {background-color: #F00132;
+padding: 5px;
+width: 280px;       
+height: 35px;
+text-align: center;
+}
+
+.card {display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+gap: 10px;}
+
+.filha2 {background-color: #9200F0;
+padding: 5px;
+width: 160px;
+height: 25px;
+text-align: center;}
+
+.cabe {background-color: #3a3132;
+margin-top: 10px;
+padding: 5px;}
