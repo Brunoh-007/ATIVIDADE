@@ -1,0 +1,48 @@
+body {
+padding: 10px;
+}
+
+.cabeçalho {background-color: #19E535;
+    height: 50px;
+  
+color: white;
+text-align: center;
+padding-bottom: 30px;
+padding: 10px;
+margin: 10px;}
+
+.menu {background-color: #E64D0A;
+  width: 500px;
+    height: 100px;
+    position: relative;
+}
+
+
+
+.pai-container {background-color: #2548E6;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+     align-content: flex-start;
+     gap: 10px;
+     justify-content: space-around;
+    width: 500px;
+    }
+     
+
+.container3 {background-color: #3a3132;
+    padding-right: 100%;}
+
+.filha1 {background-color: #F00132;
+padding: 10px
+;gap: 10px;
+width: 200px;
+text-align: center;
+
+}
+
+.filha2 {background-color: #9200F0;
+    width: 100px;
+    gap: 10px;
+padding: 10px;
+text-align: center;}
